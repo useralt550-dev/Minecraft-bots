@@ -11,7 +11,7 @@
 
 **7.** then on the terminal write "npm install" and if windows blocks it run "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass" and then run "npm install"
 
-**8.** after nmp installs all the packages run "node launch.js" and done thats it make sure your server is on you can put your server info on settings.json (its
+**8.** after npm installs all the packages run "node launch.js" and done thats it make sure your server is on you can put your server info on settings.json (its
 inside the file)
 
 **9.** the project is still on beta and its not fully finished yet so expect glitches and if you find any issues you can report it
