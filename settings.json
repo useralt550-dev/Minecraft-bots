@@ -1,7 +1,7 @@
 {
     "web_port": 3001,
     "server_ip": "replace this with ur ip",
-    "server_port": 00099,
+    "server_port": "replace this with ur server port",
     "minecraft_version": "1.21",
     "owner": "put ur minecraft user",
     "reconnect_delay": 5,
