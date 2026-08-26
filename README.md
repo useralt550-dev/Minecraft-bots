@@ -9,3 +9,8 @@
 inside the file)
 9. the project is still on beta and its not fully finished yet so expect glitches and if you find any issues you can report it
 10. important notes : this is java only and only works on cracked servers and you can use the cursor ai to fix any issues you incounter.
+
+## requirments-
+*must have node.js
+*the server must be java or java + bedorck
+*the owner must be from java (bedorck owners work or no its not confirmed yet)
