@@ -1,4 +1,4 @@
-## requirments
+## Tutorial-
 1. dowload the zip file and unzip them
 2. then dowload a software name cursor from their official website - https://cursor.com/
 3. then dowload node.js from https://nodejs.org/
