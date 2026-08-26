@@ -11,6 +11,6 @@ inside the file)
 10. important notes : this is java only and only works on cracked servers and you can use the cursor ai to fix any issues you incounter.
 
 ## requirments-
-*must have node.js
-*the server must be java or java + bedorck
-*the owner must be from java (bedorck owners work or no its not confirmed yet)
+* must have node.js
+* the server must be java or java + bedorck
+* the owner must be from java (bedorck owners work or no its not confirmed yet)
