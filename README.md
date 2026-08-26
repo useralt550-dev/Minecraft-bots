@@ -1,7 +1,7 @@
 1. dowload the zip file and unzip them
 2. then dowload a software name cursor from their official website - https://cursor.com/
 3. then dowload node.js from https://nodejs.org/
-5. then open IDE and open a project and then click the file where u putted all the things of the minecraft bots
+5. then open IDE and open a project and then click the unzipped minecraft bots file
 6. then open terminal and run "node -v" then "npm -v" If both commands show a version number, Node.js is installed correctly
 7. then on the terminal write "npm install" and if windows blocks it run "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass" and then run "npm install"
 8. after it installs all the packages run "node launch.js" and done thats it make sure your server is on you can put your server info on settings.json (its
