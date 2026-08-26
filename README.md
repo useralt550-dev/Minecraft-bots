@@ -1,4 +1,4 @@
-1. dowload all the files and put them in a folder
+1. dowload the zip file and unzip them
 2. then dowload a software name cursor from their official website - https://cursor.com/
 3. then dowload node.js from https://nodejs.org/
 5. then open IDE and open a project and then click the file where u putted all the things of the minecraft bots
