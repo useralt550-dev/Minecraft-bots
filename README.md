@@ -7,4 +7,4 @@
 8. after it installs all the packages run "node launch.js" and done thats it make sure your server is on you can put your server info on settings.json (its
 inside the file)
 9. the project is still on beta and its not fully finished yet so expect glitches and if you find any issues you can report it
-10. and also you can use the cursor ai to fix any issues
+important notes : this is java only and only works on cracked servers and you can use the cursor ai to fix any issues you incounter.
