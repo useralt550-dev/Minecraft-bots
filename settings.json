@@ -1,0 +1,10 @@
+{
+    "web_port": 3001,
+    "server_ip": "universelost.aternos.me",
+    "server_port": 44709,
+    "minecraft_version": "1.21",
+    "owner": "utawhid560",
+    "reconnect_delay": 5,
+    "max_reconnect_attempts": 10
+  }
+    
